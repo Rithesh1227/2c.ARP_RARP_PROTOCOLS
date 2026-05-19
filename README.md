@@ -2,6 +2,12 @@
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
+1.Start the program.
+2.Get the frame size from the user
+3.To create the address on the user request.
+4.To send address to server from the client side.
+5.If your address found in the server it will send the required address to client
+6.Stop the Program
 ## Client:
 1. Start the program
 2. Using socket connection is established between client and server.
